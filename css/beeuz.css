@@ -1,0 +1,10 @@
+#header .navbar-nav.navbar-right > li a {
+  color:#fff
+}
+.portfolio-view {
+  background: rgba(41, 47, 74, 0.8)
+}
+#footer {
+  background: #292F4A;
+  color: #fff;
+}
